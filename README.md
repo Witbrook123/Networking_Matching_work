@@ -942,7 +942,7 @@
                     <td>-</td>
                     <td><span class="status-badge status-no-match">No Match</span></td>
                     <td><span class="status-badge status-hh">HH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(10)">Click</button></td>
+                    <td><>Click</button></td>
                 </tr>
             </tbody>
         </table>
