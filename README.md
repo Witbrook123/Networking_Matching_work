@@ -830,23 +830,23 @@
 
     <!-- Section 4: Truck Matching Details Table -->
     <div class="data-table">
-        <div class="table-header">&nbsp&nbspTruck Matching Details</div>
+        <div class="table-header">Truck Matching Details</div>
         <table>
             <thead>
                 <tr>
-                    <th>&nbspลำดับ</th>
+                    <th>ลำดับ</th>
                     <th>ทะเบียนรถ</th>
                     <th>ผู้รับเหมา</th>
                     <th>Load HH</th>
                     <th>Load BH</th>
                     <th>Assign</th>
                     <th>Status</th>
-                    <th>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDetail</th>
+                    <th>Detail</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp1</td>
+                    <td>1</td>
                     <td>76กข4647</td>
                     <td>กท001</td>
                     <td>BKK-SRB</td>
@@ -856,7 +856,7 @@
                     <td><button class="detail-button"onclick="showDetails(1)">Click</button></td>
                 </tr>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp2</td>
+                    <td>2</td>
                     <td>23กข5380</td>
                     <td>กท002</td>
                     <td>BKK-CNX</td>
@@ -866,7 +866,7 @@
                     <td><button class="detail-button"onclick="showDetails(2)">Click</button></td>
                 </tr>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp3</td>
+                    <td>3</td>
                     <td>12กข2441</td>
                     <td>กท003</td>
                     <td>SRB-HKT</td>
@@ -876,7 +876,7 @@
                     <td><button class="detail-button"onclick="showDetails(3)">Click</button></td>
                 </tr>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp4</td>
+                    <td>4</td>
                     <td>16กข3924</td>
                     <td>กท004</td>
                     <td>BKK-KKC</td>
@@ -886,7 +886,7 @@
                     <td><button class="detail-button"onclick="showDetails(4)">Click</button></td>
                 </tr>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp5</td>
+                    <td>5</td>
                     <td>25กข2408</td>
                     <td>กท005</td>
                     <td>CNX-BKK</td>
@@ -896,7 +896,7 @@
                     <td><button class="detail-button"onclick="showDetails(5)">Click</button></td>
                 </tr>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp6</td>
+                    <td>6</td>
                     <td>74กข1234</td>
                     <td>กท006</td>
                     <td>BKK-SGK</td>
@@ -906,7 +906,7 @@
                     <td><button class="detail-button"onclick="showDetails(6)">Click</button></td>
                 </tr>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp7</td>
+                    <td>7</td>
                     <td>78กข2402</td>
                     <td>กท007</td>
                     <td>SRB-CNX</td>
@@ -916,7 +916,7 @@
                     <td><button class="detail-button"onclick="showDetails(7)">Click</button></td>
                 </tr>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp8</td>
+                    <td>8</td>
                     <td>45กข1239</td>
                     <td>กท008</td>
                     <td>BKK-KKC</td>
@@ -926,7 +926,7 @@
                     <td><button class="detail-button"onclick="showDetails(8)">Click</button></td>
                 </tr>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp9</td>
+                    <td>9</td>
                     <td>1076กย2346</td>
                     <td>กท009</td>
                     <td>HKT-BKK</td>
@@ -936,7 +936,7 @@
                     <td><button class="detail-button"onclick="showDetails(9)">Click</button></td>
                 </tr>
                 <tr>
-                    <td>&nbsp&nbsp&nbsp&nbsp10</td>
+                    <td>10</td>
                     <td>13ดน4239</td>
                     <td>กท010</td>
                     <td>CNX-KKC</td>
