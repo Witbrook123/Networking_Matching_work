@@ -498,7 +498,7 @@
 <body>
     <div class="header">
         <div style="display: flex; align-items: center; gap: 18px;">
-            <img src="D:/Web Design/SCGJWD_Logo.png" alt="SCGJWD Logo" style="height: 48px; width: auto; display: inline-block; vertical-align: middle;">
+            <img src="SCGJWD_Logo.png" alt="SCGJWD Logo" style="height: 64px; width: auto; background: #fff; border-radius: 14px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); display: inline-block; vertical-align: middle;">
             <div>
                 <h1 style="display: inline-block; vertical-align: middle; margin: 0;">Overall Networking Dashboard HH : BH Matching</h1>
                 <p style="margin: 4px 0 0 0; color: #f3e8ff; font-size: 1rem; font-weight: 400; text-shadow: 0 1px 6px #a18cd1cc;">Visualize and manage truck-carrier matching in logistics transportation activities</p>
