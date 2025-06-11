@@ -852,7 +852,7 @@
                     <td>SRB-BKK</td>
                     <td><span class="status-badge status-match">Match</span></td>
                     <td><span class="status-badge status-bh">BH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(1)">Click</button></td>
+                    <td><>Click</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -862,7 +862,7 @@
                     <td>-</td>
                     <td><span class="status-badge status-no-match">No Match</span></td>
                     <td><span class="status-badge status-hh">HH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(2)">Click</button></td>
+                    <td><>Click</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -872,7 +872,7 @@
                     <td>HKT-BKK</td>
                     <td><span class="status-badge status-match">Match</span></td>
                     <td><span class="status-badge status-hh">HH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(3)">Click</button></td>
+                    <td><>Click</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -882,7 +882,7 @@
                     <td>KKC-BKK</td>
                     <td><span class="status-badge status-match">Match</span></td>
                     <td><span class="status-badge status-bh">BH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(4)">Click</button></td>
+                    <td><>Click</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -892,7 +892,7 @@
                     <td>-</td>
                     <td><span class="status-badge status-no-match">No Match</span></td>
                     <td><span class="status-badge status-hh">HH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(5)">Click</button></td>
+                    <td><>Click</td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -902,7 +902,7 @@
                     <td>SGK-SRB</td>
                     <td><span class="status-badge status-match">Match</span></td>
                     <td><span class="status-badge status-bh">BH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(6)">Click</button></td>
+                    <td><>Click</td>
                 </tr>
                 <tr>
                     <td>7</td>
@@ -912,7 +912,7 @@
                     <td>-</td>
                     <td><span class="status-badge status-no-match">No Match</span></td>
                     <td><span class="status-badge status-hh">HH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(7)">Click</button></td>
+                    <td><>Click</td>
                 </tr>
                 <tr>
                     <td>8</td>
@@ -922,7 +922,7 @@
                     <td>KKC-CNX</td>
                     <td><span class="status-badge status-match">Match</span></td>
                     <td><span class="status-badge status-bh">BH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(8)">Click</button></td>
+                    <td><>Click</td>
                 </tr>
                 <tr>
                     <td>9</td>
@@ -932,7 +932,7 @@
                     <td>BKK-SRB</td>
                     <td><span class="status-badge status-match">Match</span></td>
                     <td><span class="status-badge status-hh">HH</span></td>
-                    <td><button class="detail-button"onclick="showDetails(9)">Click</button></td>
+                    <td><>Click</td>
                 </tr>
                 <tr>
                     <td>10</td>
@@ -942,7 +942,7 @@
                     <td>-</td>
                     <td><span class="status-badge status-no-match">No Match</span></td>
                     <td><span class="status-badge status-hh">HH</span></td>
-                    <td><>Click</button></td>
+                    <td><>Click</td>
                 </tr>
             </tbody>
         </table>
